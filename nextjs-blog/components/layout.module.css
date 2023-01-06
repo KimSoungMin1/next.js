@@ -1,0 +1,16 @@
+.container {
+  max-width: 36rem;
+  padding: 0 1rem;
+  margin: 3rem auto 6rem;
+}
+.atage {
+  color: red;
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  border-radius: 50%;
+}
+.profile img {
+  border-radius: 50%;
+}
